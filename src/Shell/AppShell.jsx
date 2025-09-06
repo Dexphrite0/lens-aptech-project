@@ -3,7 +3,7 @@
   import PageCatalog from "../pages/PageCatalog.jsx";
   import PageCompare from "../pages/PageCompare.jsx";
   import PageContact from "../pages/PageContact.jsx";
-  import Cart from "../cart/cart.js";
+  import Cart from "../Cart/cart.js";
   import CartPanel from "../Components/CartPanel.jsx";
   import "../styles/AppShell.css"
   import Loader from "../Components/Loader.jsx";
